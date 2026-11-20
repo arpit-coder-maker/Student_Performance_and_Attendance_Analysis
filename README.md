@@ -97,3 +97,7 @@ This project demonstrates how Python can be used to analyse student academic rec
 Project Name: Student Performance and Attendance Analysis System
 
 Project Type: Python Mini Project
+
+## Author 
+Arpit Kumar Srivastava 
+Admission No.2026B0101659
